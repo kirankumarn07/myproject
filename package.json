@@ -4,7 +4,7 @@
   "description": "login and signup",
   "main": "index.js",
   "scripts": {
-    "dev" :  "nodemon src/app.ts",
+    "dev": "nodemon src/app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -19,6 +19,7 @@
   "devDependencies": {
     "@types/express": "^4.17.17",
     "@types/node": "^20.5.7",
+    "eslint": "^8.48.0",
     "typescript": "^5.2.2"
   }
 }
